@@ -1,0 +1,25 @@
+[
+	{
+    	"uuid": "1",
+    	"clientName": "stackoperations",
+    	"emailId": "stackoperations@gmail.com",
+    	"location": "india",
+    	"config": {
+	        "cluster": {
+	            "endpoint": "http://cluster"
+	        }
+    	}
+    },
+    {
+    	"uuid": "2",
+    	"clientName": "stackoperations1",
+    	"emailId": "stackoperations1@gmail.com",
+    	"location": "india",
+    	"config": {
+	        "cluster": {
+	            "endpoint": "http://cluster1"
+	        }
+    	}
+    }
+
+]

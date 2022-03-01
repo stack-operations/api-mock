@@ -1,0 +1,45 @@
+ [
+
+    	{
+	    	"appUUID": "1",
+	    	"clientName": "stackoperations",
+	    	"applicationName": "user-svc-1",
+	    	"applicationRegistrationConfig": {
+		        "repositoryUrl": "https://github.com/stack-operations/sample-spring-boot.git",
+		        "applicationType": "api",
+		        "language": "java",
+		        "repositoryDockerFilePath": "/"
+	    	},
+	    	"secret": {
+		        "repoCreds": {
+		            "username": "sumitbharti800@gmail.com",
+		            "password": "Sum@7384176274"
+		        },
+		        "dockerCreds": {
+		            "username": "sumitsuridocker",
+		            "password": "Sum@7384176274"
+		        }
+	    	}
+    	},
+    	{
+	    	"appUUID": "2",
+	    	"clientName": "stackoperations",
+	    	"applicationName": "user-svc-2",
+	    	"applicationRegistrationConfig": {
+		        "repositoryUrl": "https://github.com/stack-operations/sample-spring-boot.git",
+		        "applicationType": "api",
+		        "language": "java",
+		        "repositoryDockerFilePath": "/"
+	    	},
+	    	"secret": {
+		        "repoCreds": {
+		            "username": "sumitbharti800@gmail.com",
+		            "password": "Sum@7384176274"
+		        },
+		        "dockerCreds": {
+		            "username": "sumitsuridocker",
+		            "password": "Sum@7384176274"
+		        }
+	    	}
+    	}
+    ]
